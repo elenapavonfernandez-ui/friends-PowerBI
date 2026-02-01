@@ -1,7 +1,7 @@
 # Léeme 
 📊 Dashboard Friends
 
-Equipo:
+**Equipo:**
 
 Patricia Merchán
 
@@ -12,7 +12,7 @@ En este proyecto hemos explorado información de episodios, diálogos y audienci
 
 El resultado es una combinación de limpieza de datos, cálculos avanzados y storytelling visual, orientada a extraer insights claros y accionables sobre una de las series más icónicas de la televisión.
 
-🎯 Objetivo principal del proyecto
+**🎯 Objetivo principal del proyecto**
 
 El propósito principal del proyecto es demostrar la capacidad técnica en Power BI para:
 
@@ -24,11 +24,11 @@ Diseñar visualizaciones que cuenten una historia clara, atractiva y accesible
 
 Aplicar cálculos avanzados, como traducciones condicionales y análisis comparativos de éxito entre episodios
 
-🧩 Objetivos pormenorizados
+**🧩 Objetivos pormenorizados**
 
 Los objetivos se han dividido en función de los distintos bloques de trabajo del proyecto.
 
-📥 Importación y gestión de datos en Power BI
+**📥 Importación y gestión de datos en Power BI**
 
 Descarga y almacenamiento de los datasets en una carpeta local
 
@@ -48,7 +48,7 @@ Limpieza de texto
 
 Normalización de valores
 
-📐 Cálculos avanzados y transformación de datos
+**📐 Cálculos avanzados y transformación de datos**
 
 Creación de columnas calculadas para:
 
@@ -62,7 +62,7 @@ Uso de lógica condicional para clasificar episodios, temporadas y escenarios
 
 Preparación del dataset para facilitar el análisis narrativo del dashboard
 
-📊 Visualizaciones iniciales de análisis
+**📊 Visualizaciones iniciales de análisis**
 
 KPIs / Big Numbers:
 
@@ -86,7 +86,7 @@ Gráficos circulares y donuts:
 
 Proporciones entre variables categóricas
 
-🎨 Personalización de visualizaciones
+**🎨 Personalización de visualizaciones**
 
 Uso de medidas DAX para métricas dinámicas
 
@@ -100,7 +100,7 @@ Inserción de imágenes y elementos visuales
 
 Formato y coherencia visual de KPIs
 
-🎛️ Filtros e interactividad
+**🎛️ Filtros e interactividad**
 
 Filtros Top N
 
@@ -110,21 +110,8 @@ Segmentadores interactivos
 
 Descripciones emergentes para mejorar la experiencia del usuario
 
-🧼 Inconsistencias y limpieza de datos
 
-Limpieza de la columna Author
-
-Normalización de texto (mayúsculas, minúsculas, errores de escritura)
-
-Creación de campos personalizados para:
-
-Temporada
-
-Episodio
-
-Clasificación de escenarios mediante palabras clave
-
-🎯 Personalización del enfoque del proyecto
+**🎯 Personalización del enfoque del proyecto**
 
 Desarrollo de un enfoque propio para el análisis de datos
 
@@ -143,25 +130,8 @@ Análisis de la evolución del interés del público a lo largo de las temporada
 
 Identificación de picos de popularidad y episodios más y menos exitosos
 
-🗣️ ¿Quién domina la conversación?
 
-Análisis de líneas de diálogo
-
-Limpieza y normalización de la columna Author
-
-Gráfico de barras comparando el número de frases por personaje
-
-Uso de color y tamaño para destacar a los protagonistas
-
-😊 Emociones a flor de piel
-
-Cruce del dataset de frases con el de emociones
-
-Visualización del “clima emocional” de la serie según el escenario
-
-Identificación de la alegría como emoción predominante, lo que llevó a profundizar en el análisis del personaje de Phoebe
-
-📊 Datasets utilizados
+**📊 Datasets utilizados**
 
 Para el desarrollo del proyecto se han utilizado los siguientes datasets:
 
@@ -173,7 +143,7 @@ Para el desarrollo del proyecto se han utilizado los siguientes datasets:
 
 Estos datasets han sido combinados y relacionados en Power BI para construir un modelo de datos coherente que permita el análisis cruzado de episodios, audiencia, diálogos y emociones.
 
-🎨 Diseño en Power BI
+**🎨 Diseño en Power BI**
 
 Paleta de colores inspirada en la serie
 
@@ -183,7 +153,7 @@ Navegación clara y experiencia de usuario intuitiva
 
 Diseño coherente y temático alineado con la serie
 
-🛠️ Desafíos técnicos superados
+**🛠️ Desafíos técnicos superados**
 
 Limpieza de datos: inconsistencias en nombres de personajes
 
@@ -197,7 +167,7 @@ Traducción de sinopsis
 
 Identificación automática de episodios más y menos exitosos
 
-📁 Estructura del repositorio
+**📁 Estructura del repositorio**
 
 /data        → Datasets originales obtenidos de Kaggle  
 /images      → Imágenes utilizadas en el proyecto  
