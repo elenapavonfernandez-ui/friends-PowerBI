@@ -1,4 +1,4 @@
-# friends-PowerBI
+# Léeme 
 📊 Dashboard Friends
 
 Equipo:
