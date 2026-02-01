@@ -201,5 +201,3 @@ Identificación automática de episodios más y menos exitosos
 /data        → Datasets originales obtenidos de Kaggle  
 /images      → Imágenes utilizadas en el proyecto  
 DashboardFriends.pbix → Archivo de Power BI con el modelo, visualizaciones y dashboard final  
-# friends-PowerBI
-Análisis del éxito de la serie friends usando Power BI 
