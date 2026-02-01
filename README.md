@@ -175,6 +175,7 @@ DashboardFriends.pbix → Archivo de Power BI con el modelo, visualizaciones y d
 
 Imágenes:
 <img width="1413" height="795" alt="image" src="https://github.com/user-attachments/assets/95646c5f-aeee-42a0-b537-95dd8fadee66" />
+
 <img width="1415" height="796" alt="image" src="https://github.com/user-attachments/assets/e9a4644e-896b-4601-9724-3887a7565e40" />
 
 
